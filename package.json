@@ -1,0 +1,32 @@
+{
+  "name": "darker-b",
+  "displayName": "darker-hour",
+  "description": "Tema Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.jpg",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/JoaoPDeveloper/vscode-theme-darkerst"
+  },
+  "keywords": [
+    "darker",
+    "black",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darker-hour",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkestHours-color-theme.json"
+      }
+    ]
+  }
+}
