@@ -2,7 +2,7 @@
   "name": "darker-b",
   "displayName": "darker-hour",
   "description": "Tema Dark",
-  "version": "0.3",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.20.0"
   },
